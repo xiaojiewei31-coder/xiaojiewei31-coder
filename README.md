@@ -17,7 +17,10 @@ This page is not meant to prove that I am becoming an elite person. It is more l
 - AI-assisted writing, coding, and project organization
 - Films, music, books, and taste
 
----
+## 🧪 Small experiments
+
+- [GRE Semantic Vocab](https://xiaojiewei31-coder.github.io/gre-semantic-vocab/)  
+  A small vibe-coded web for reviewing GRE vocabulary through semantic clusters.
 
 ## 🧩 Things I’m building
 
