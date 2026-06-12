@@ -30,7 +30,7 @@ This page is not meant to prove that I am becoming an elite person. It is more l
 
   Raw data and private course materials are not included.
 
-* [洋人之眼 · The Foreign Gaze]([https://xiaojiewei31-coder.github.io/THE-FOREIGN-GAZE/])
+* [洋人之眼 · The Foreign Gaze](https://xiaojiewei31-coder.github.io/THE-FOREIGN-GAZE/)
   A static visual essay on how Western images have imagined, framed, and reproduced “China.”
 
   This project started from a course paper on modern Chinese visual history, Orientalism, and Chinese representation in Western cinema. Instead of turning the paper directly into a webpage, I built it as a small visual archive: combining photography, book covers, film posters, stills, and short critical notes.
