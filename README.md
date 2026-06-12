@@ -12,15 +12,25 @@ This page is not meant to prove that I am becoming an elite person. It is more l
 
 ## 🧭 Current interests
 
-- Digital finance and tokenized assets
-- Quantitative research workflows
-- AI-assisted writing, coding, and project organization
-- Films, music, books, and taste
+* Digital finance and tokenized assets
+* Quantitative research workflows
+* AI-assisted writing, coding, and project organization
+* Films, music, books, and taste
 
+## 📊 Course & research projects
+
+* [CSI 300 Enhanced Index Strategy](https://github.com/xiaojiewei31-coder/csi300-enhanced-index-strategy)
+  A course-based quantitative equity project on building a CSI 300 enhanced-index strategy.
+  It includes multi-factor stock selection, simple machine-learning return prediction, portfolio backtesting, transaction-cost assumptions, beta/industry/size exposure diagnostics, robustness checks, and public-facing documentation.
+
+  I use this project partly as a way to understand how quant research pipelines are actually organized: not just “predicting returns,” but moving from data cleaning and factor construction to portfolio formation, risk control, performance evaluation, and finally a readable strategy report.
+
+  Raw data and private course materials are not included.
 ## 🧪 Small experiments
 
-- [GRE Semantic Vocab](https://xiaojiewei31-coder.github.io/gre-semantic-vocab/)  
+* [GRE Semantic Vocab](https://xiaojiewei31-coder.github.io/gre-semantic-vocab/)
   A small vibe-coded web for reviewing GRE vocabulary through semantic clusters.
+
 
 ## 🧩 Things I’m building
 
@@ -35,3 +45,4 @@ Some parts may become public when they are less messy, less private, or less emb
 I may use this space to index notes, writing fragments, reading lists, music/film thoughts, and small records of how I was thinking at the time. 🫶
 
 For now, this page is still under construction, which is probably an honest state for most things.
+
