@@ -29,18 +29,15 @@ This page is not meant to prove that I am becoming an elite person. It is more l
   I use this project partly as a way to understand how quant research pipelines are actually organized: not just “predicting returns,” but moving from data cleaning and factor construction to portfolio formation, risk control, performance evaluation, and finally a readable strategy report.
 
   Raw data and private course materials are not included.
+  
+* [洋人之眼 · The Foreign Gaze](https://xiaojiewei31-coder.github.io/foreign-gaze-exhibition/)  
+  A static visual essay and online exhibition about how Western images have imagined, framed, and reproduced “China.”
 
-* [洋人之眼 · The Foreign Gaze](https://xiaojiewei31-coder.github.io/THE-FOREIGN-GAZE/)
-  A static visual essay on how Western images have imagined, framed, and reproduced “China.”
+  Developed from a course paper on modern Chinese visual history, Orientalism, and Chinese representation in Western cinema, this project turns academic research into a curated visual archive of photography, book covers, film posters, stills, screenshots, and critical notes.
 
-  This project started from a course paper on modern Chinese visual history, Orientalism, and Chinese representation in Western cinema. Instead of turning the paper directly into a webpage, I built it as a small visual archive: combining photography, book covers, film posters, stills, and short critical notes.
+  It examines the “foreign gaze” from colonial photography and Hollywood yellowface to wartime sympathy, Oriental femininity, kung fu spectacle, and globalized cultural consumption. The project is especially interested in how othering can appear not only as hostility, but also as admiration, romance, sympathy, and fascination.
 
-  The project asks how “China” has been constructed through the foreign gaze: from early colonial photography and war images to Hollywood films involving yellowface, “Yellow Peril” fantasies, wartime sympathy, Oriental femininity, kung fu spectacle, and globalized cultural consumption.
-
-  I am especially interested in the fact that othering is not always hostile. Sometimes even sympathy, admiration, romance, or cultural fascination can still place China in a passive position: being watched, explained, desired, rescued, or consumed.
-
-  Built with plain HTML, CSS, and JavaScript. No external framework is required.
-
+  Built with plain HTML, CSS, and JavaScript.
 ---
 
 ## 🧪 Small experiments
