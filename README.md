@@ -40,6 +40,16 @@ This page is not meant to prove that I am becoming an elite person. It is more l
 
   Dashboard: [GitHub Pages preview](https://xiaojiewei31-coder.github.io/firm-size-profitability-china/)  
   Raw Wind/iFinD exports and private course materials are not included.
+
+* [Multi-Asset Portfolio Optimization](https://github.com/xiaojiewei31-coder/Multi-Asset-Portfolio-Optimization)   
+
+A reproducible quantitative finance project on whether a traditional Chinese stock-bond allocation can be improved by adding international equities, Hong Kong equities, REITs, and gold.
+
+The project rebuilds a course-based investment report into a cleaner Python research pipeline. It compares a five-asset Chinese stock-bond universe with a nine-asset multi-asset universe, estimates annualized return, volatility, covariance, and Sharpe ratios, plots efficient frontiers, constructs long-only tangency portfolios, and runs a 36-month rolling-window out-of-sample backtest.
+
+I use this project to practice turning portfolio theory into something closer to a real research workflow: organizing raw data, separating reusable code from analysis logic, comparing static optimization with rolling backtests, and documenting results in a way that can be read by someone who did not take the original course.
+
+Raw data and private course materials are not included.
   
 * [洋人之眼 · The Foreign Gaze](https://xiaojiewei31-coder.github.io/foreign-gaze-exhibition/)  
 
