@@ -29,6 +29,16 @@ This page is not meant to prove that I am becoming an elite person. It is more l
   I use this project partly as a way to understand how quant research pipelines are actually organized: not just “predicting returns,” but moving from data cleaning and factor construction to portfolio formation, risk control, performance evaluation, and finally a readable strategy report.
 
   Raw data and private course materials are not included.
+
+  * [Firm Size and Profitability in China’s A-Share Market](https://github.com/xiaojiewei31-coder/firm-size-profitability-china)  
+  An empirical finance project on the relationship between firm size and profitability in China’s A-share market, using CSI 300 and CSI 500 constituents as comparison groups.
+
+  The project began as a course report and was later rebuilt into a reproducible research repository. It includes Excel data cleaning, EPS and EPS/assets analysis, industry-level comparison, panel-style regressions with year, industry, and firm fixed effects, robustness checks, and public-facing documentation.
+
+  I also turned it into a small data product: a static interactive dashboard where users can filter by year, industry, index group, and market capitalization to explore the relationship between firm size and profitability.
+
+  Dashboard: [GitHub Pages preview](https://xiaojiewei31-coder.github.io/firm-size-profitability-china/)  
+  Raw Wind/iFinD exports and private course materials are not included.
   
 * [洋人之眼 · The Foreign Gaze](https://xiaojiewei31-coder.github.io/foreign-gaze-exhibition/)  
   A static visual essay and online exhibition about how Western images have imagined, framed, and reproduced “China.”
