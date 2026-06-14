@@ -31,6 +31,7 @@ This page is not meant to prove that I am becoming an elite person. It is more l
   Raw data and private course materials are not included.
 
 * [Firm Size and Profitability in China’s A-Share Market](https://github.com/xiaojiewei31-coder/firm-size-profitability-china)  
+
   An empirical finance project on the relationship between firm size and profitability in China’s A-share market, using CSI 300 and CSI 500 constituents as comparison groups.
 
   The project began as a course report and was later rebuilt into a reproducible research repository. It includes Excel data cleaning, EPS and EPS/assets analysis, industry-level comparison, panel-style regressions with year, industry, and firm fixed effects, robustness checks, and public-facing documentation.
@@ -41,6 +42,7 @@ This page is not meant to prove that I am becoming an elite person. It is more l
   Raw Wind/iFinD exports and private course materials are not included.
   
 * [洋人之眼 · The Foreign Gaze](https://xiaojiewei31-coder.github.io/foreign-gaze-exhibition/)  
+
   A static visual essay and online exhibition about how Western images have imagined, framed, and reproduced “China.”
 
   Developed from a course paper on modern Chinese visual history, Orientalism, and Chinese representation in Western cinema, this project turns academic research into a curated visual archive of photography, book covers, film posters, stills, screenshots, and critical notes.
