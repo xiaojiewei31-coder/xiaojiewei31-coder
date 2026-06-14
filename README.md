@@ -1,84 +1,92 @@
-# Hi, I’m Wynn 🫡
+# Hi, I am Wynn
 
-“Wynn” is a slightly odd name I picked for myself.
+I am a finance student building a public portfolio around quantitative finance, digital finance, empirical research, and AI-assisted research workflows.
 
-It is loosely based on the sound of my Chinese name, but it is uncommon enough that I often have to explain it when people ask what I prefer to be called. Since GitHub feels like a cool place for unfinished projects, small experiments, and mildly pretentious naming decisions, I decided to keep it here. 😅
+This GitHub profile is a small index of projects where I turn finance questions into reproducible analysis: cleaning data, designing factors, testing models, building dashboards, and documenting results clearly enough for someone outside the original project context to read.
 
-I study finance, but I do not want this page to read like a miniature LinkedIn profile. I use it more as a personal index for course projects, research drafts, AI-assisted workflows, and maybe later, things related to films, music, books, and taste.
+## Current Focus
 
-This page is not meant to prove that I am becoming an elite person. It is more like a public shelf for things I am learning, building, revising, and sometimes overthinking. 🫂
+- Quantitative finance and portfolio research
+- Digital finance, tokenized assets, and FinTech applications
+- Empirical research with Python, regression models, and dashboards
+- AI-assisted workflows for research, coding, writing, and presentation
+- Visual culture and critical media analysis as a secondary interest
 
----
+## Selected Finance Projects
 
-## 🧭 Current interests
+### [CSI 300 Enhanced Index Strategy](https://github.com/xiaojiewei31-coder/csi300-enhanced-index-strategy)
 
-* Digital finance and tokenized assets
-* Quantitative research workflows
-* AI-assisted writing, coding, and project organization
-* Visual culture, film, representation, and taste
+A quantitative equity research project on building an enhanced-index strategy for the CSI 300 universe.
 
----
+The project combines value, momentum, simple machine-learning signals, monthly portfolio rebalancing, transaction-cost assumptions, beta diagnostics, industry exposure analysis, size exposure analysis, robustness checks, and public-facing documentation.
 
-## 📊 Course & research projects
+What it shows:
 
-* [CSI 300 Enhanced Index Strategy](https://github.com/xiaojiewei31-coder/csi300-enhanced-index-strategy)
-  A course-based quantitative equity project on building a CSI 300 enhanced-index strategy.
+- Multi-factor stock selection and portfolio construction
+- Walk-forward machine-learning signal testing
+- Backtesting with turnover, tracking error, information ratio, and drawdown metrics
+- Practical attention to benchmark risk, beta, industry exposure, and data limitations
 
-  It includes multi-factor stock selection, simple machine-learning return prediction, portfolio backtesting, transaction-cost assumptions, beta/industry/size exposure diagnostics, robustness checks, and public-facing documentation.
+Raw market data, licensed inputs, and private materials are not included in the public repository.
 
-  I use this project partly as a way to understand how quant research pipelines are actually organized: not just “predicting returns,” but moving from data cleaning and factor construction to portfolio formation, risk control, performance evaluation, and finally a readable strategy report.
+### [Firm Size and Profitability in China's A-Share Market](https://github.com/xiaojiewei31-coder/firm-size-profitability-china)
 
-  Raw data and private course materials are not included.
+An empirical finance project studying the relationship between firm size and profitability in China's A-share market, using CSI 300 and CSI 500 constituents as comparison groups.
 
-* [Firm Size and Profitability in China’s A-Share Market](https://github.com/xiaojiewei31-coder/firm-size-profitability-china)  
+The repository includes data cleaning scripts, EPS and EPS/assets analysis, industry-level comparison, panel-style regressions with year, industry, and firm fixed effects, robustness checks, and public documentation.
 
-  An empirical finance project on the relationship between firm size and profitability in China’s A-share market, using CSI 300 and CSI 500 constituents as comparison groups.
+I also built a static interactive dashboard where users can filter by year, industry, index group, and market capitalization to explore the relationship between firm size and profitability.
 
-  The project began as a course report and was later rebuilt into a reproducible research repository. It includes Excel data cleaning, EPS and EPS/assets analysis, industry-level comparison, panel-style regressions with year, industry, and firm fixed effects, robustness checks, and public-facing documentation.
+Dashboard: [GitHub Pages preview](https://xiaojiewei31-coder.github.io/firm-size-profitability-china/)
 
-  I also turned it into a small data product: a static interactive dashboard where users can filter by year, industry, index group, and market capitalization to explore the relationship between firm size and profitability.
+What it shows:
 
-  Dashboard: [GitHub Pages preview](https://xiaojiewei31-coder.github.io/firm-size-profitability-china/)  
-  Raw Wind/iFinD exports and private course materials are not included.
+- Empirical research design and regression modeling
+- Data cleaning and transformation from spreadsheet-style financial data
+- Dashboard design for communicating research results
+- Careful treatment of data-source and reproducibility constraints
 
-* [Multi-Asset Portfolio Optimization](https://github.com/xiaojiewei31-coder/Multi-Asset-Portfolio-Optimization)   
+Raw Wind/iFinD exports and private materials are not included.
 
-  A reproducible quantitative finance project on whether a traditional Chinese stock-bond allocation can be improved by adding international equities, Hong Kong equities, REITs, and gold.
+### [Multi-Asset Portfolio Optimization](https://github.com/xiaojiewei31-coder/Multi-Asset-Portfolio-Optimization)
 
-  The project rebuilds a course-based investment report into a cleaner Python research pipeline. It compares a five-asset Chinese stock-bond universe with a nine-asset multi-asset universe, estimates annualized return, volatility, covariance, and Sharpe ratios, plots efficient frontiers, constructs long-only tangency portfolios, and runs a 36-month rolling-window out-of-sample backtest.
+A reproducible quantitative finance project on whether a traditional Chinese stock-bond allocation can be improved by adding international equities, Hong Kong equities, REITs, and gold.
 
-  I use this project to practice turning portfolio theory into something closer to a real research workflow: organizing raw data, separating reusable code from analysis logic, comparing static optimization with rolling backtests, and documenting results in a way that can be read by someone who did not take the original course.
+The project compares a five-asset Chinese stock-bond universe with a nine-asset multi-asset universe. It estimates annualized return, volatility, covariance, and Sharpe ratios; plots efficient frontiers; constructs long-only tangency portfolios; and runs a 36-month rolling-window out-of-sample backtest.
 
-  Raw data and private course materials are not included.
-  
-* [洋人之眼 · The Foreign Gaze](https://xiaojiewei31-coder.github.io/foreign-gaze-exhibition/)  
+What it shows:
 
-  A static visual essay and online exhibition about how Western images have imagined, framed, and reproduced “China.”
+- Mean-variance optimization and efficient-frontier analysis
+- Asset allocation comparison across domestic and global assets
+- Rolling-window out-of-sample evaluation
+- Research pipeline organization from data to tables, charts, and interpretation
 
-  Developed from a course paper on modern Chinese visual history, Orientalism, and Chinese representation in Western cinema, this project turns academic research into a curated visual archive of photography, book covers, film posters, stills, screenshots, and critical notes.
+Raw data and private materials are not included.
 
-  It examines the “foreign gaze” from colonial photography and Hollywood yellowface to wartime sympathy, Oriental femininity, kung fu spectacle, and globalized cultural consumption. The project is especially interested in how othering can appear not only as hostility, but also as admiration, romance, sympathy, and fascination.
+## Other Projects
 
-  Built with plain HTML, CSS, and JavaScript.
----
+### [The Foreign Gaze](https://xiaojiewei31-coder.github.io/foreign-gaze-exhibition/)
 
-## 🧪 Small experiments
+A static visual essay and online exhibition about how Western images have imagined, framed, exoticized, and reproduced "China" through photography, film posters, screenshots, and critical writing.
 
-* [GRE Semantic Vocab](https://xiaojiewei31-coder.github.io/gre-semantic-vocab/)
-  A small vibe-coded web for reviewing GRE vocabulary through semantic clusters.
+Built with plain HTML, CSS, and JavaScript.
 
----
+### [GRE Semantic Vocab](https://xiaojiewei31-coder.github.io/gre-semantic-vocab/)
 
-## 🧩 Things I’m building
+A small web app for reviewing GRE vocabulary through semantic clusters, tone filters, search, browser pronunciation, classification practice, and local progress tracking.
 
-I am slowly building a small private workflow library for organizing research, writing, coding, and presentation tasks.
+Built with static HTML, CSS, and JavaScript.
 
-Some parts may become public when they are less messy, less private, or less embarrassing. 😇
+## Tools And Skills I Am Practicing
 
----
+- Python: pandas, NumPy, statsmodels, scikit-learn, matplotlib
+- Finance: factor design, backtesting, portfolio optimization, regression analysis
+- Data products: Streamlit-style workflows, static dashboards, GitHub Pages
+- Research communication: README writing, methodology notes, visual summaries
+- Workflow design: using AI tools to organize, test, revise, and present research projects
 
-## 🌱 Maybe later
+## Notes
 
-I may use this space to index notes, writing fragments, reading lists, music/film thoughts, and small records of how I was thinking at the time. 🫶
+Some repositories are adapted from academic projects and then rebuilt into public, portfolio-ready versions. When data sources may be licensed or course-specific, I keep raw files private and publish only code, documentation, selected summary outputs, and reproducibility notes.
 
-For now, this page is still under construction, which is probably an honest state for most things.
+This profile is still developing, but the direction is clear: I am using finance projects as a way to build stronger habits in quantitative research, data communication, and practical FinTech problem-solving.
